@@ -1,16 +1,26 @@
-## Hi there 👋
+### 🙂 Hi there! 
 
-<!--
-**BOO-WONKUK/BOO-WONKUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+꾸준히 성장해나가는 개발자 새싹, 부원국 입니다. 🌱
+</br></br></br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👩‍💻 Skill </br>
+~ing 
+</br></br>
+
+
+#### 💻 Studying</br>
+<img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+</br></br>
+
+
+#### 🤳 SNS</br>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOO-WONKUK&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonkuk5135)](https://solved.ac/wonkuk5135/)
