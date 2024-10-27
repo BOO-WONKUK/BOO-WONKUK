@@ -5,19 +5,7 @@
 </br></br></br>
 
 
-#### 👩‍💻 Skill </br>
-~ing 
-</br></br>
 
-
-#### 💻 Studying</br>
-<img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-</br></br>
-
-
-#### 🤳 SNS</br>
 
 
 
